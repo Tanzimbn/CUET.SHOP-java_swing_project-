@@ -9,6 +9,7 @@ It is an E-commerce software where students of CUET can exchange their goods.
 - Categorize the products
 - Search for product
 - Send short message to seller
+- Price range filter
 
 
 ## Screenshots
